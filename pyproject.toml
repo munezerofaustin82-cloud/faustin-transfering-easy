@@ -1,0 +1,8 @@
+[project]
+name = "faustin-transfering-easy"
+version = "1.0.0"
+dependencies = ["flet"]
+
+[tool.flet]
+org = "com.faustin.share"
+product = "Faustin Transfering Easy"
